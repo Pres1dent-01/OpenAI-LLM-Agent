@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda and virtual environments
+.env/
+.venv/
+venv/
+conda-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
