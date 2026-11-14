@@ -5,3 +5,5 @@ langchain-openai
 bs4
 langchain_community
 faiss-cpu
+langchain-ollama
+streamlit
