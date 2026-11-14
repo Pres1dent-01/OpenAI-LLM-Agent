@@ -2,3 +2,6 @@ ipykernel
 python-dotenv
 langchain
 langchain-openai
+bs4
+langchain_community
+faiss-cpu
