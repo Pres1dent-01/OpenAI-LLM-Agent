@@ -7,3 +7,6 @@ langchain_community
 faiss-cpu
 langchain-ollama
 streamlit
+openai
+langchain_groq
+langchain_core
